@@ -1,0 +1,3 @@
+Ika Puspita Dewi|Bekasi|ika@gmail.com|P|praktikum 4 validasi data mahasiswa
+ayu|jakarta|ayu@gmail.com|P|praktikum
+ika||ika@gmail.com|P|hmmm...
